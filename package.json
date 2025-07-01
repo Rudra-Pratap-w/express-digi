@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "app-manager",
+  "version": "1.0.0",
+  "description": "A robust manager for a good  developer experience",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Rudra Pratap Singh",
+  "license": "ISC"
+}
